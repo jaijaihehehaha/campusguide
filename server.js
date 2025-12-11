@@ -40,7 +40,7 @@ const locationData = {
     // Special Locations
     "ecotrail": new Location("ecotrail", "EcoTrail @ RV", "https://my.matterport.com/show/?m=poaeVuV77Ro", "A winding path that blends nature with campus life. Discover the green within.", "?"),
     "library": new Location("library", "Renovated Library", "https://my.matterport.com/show/?m=RCoRDd7Li9u", "A sanctuary of stories.", "?"),
-    "new-basketball-court": new Location("bbc", "New Basketball Court", "https://panoraven.com/en/embed/zbFyWcWLXo", "Every bounce is a challenge. It's not just a court, it's a battlefield", "?"),
+    "Outdoor Basketball Court": new Location("bbc", "Outdoor Basketball Court", "https://panoraven.com/en/embed/zbFyWcWLXo", "Every bounce is a challenge. It's not just a court, it's a battlefield", "?"),
     "canteen": new Location("canteen", "School Canteen", "https://panoraven.com/en/embed/i0s8Ls8ekZ", "The daily hub of flavor and chatter, served fresh.", "?"),
     "scholars-court": new Location("scholar", "Scholar's Court", "https://panoraven.com/en/embed/YhRO2FnwMW", "Where minds meet and ideas take root. A space for quiet brilliance.", "?"),
     "the-spring": new Location("spring", "The Spring", "https://panoraven.com/en/embed/nwE79dyoOX", "The finest student wellness hub Singapore has to offer.", "?"),
