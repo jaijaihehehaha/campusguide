@@ -149,15 +149,6 @@ app.get("/facilities", (req, res) => {
     });
 });
 
-// Route to render about RV page
-app.get("/about-rv", (req, res) => {
-    res.render("about", {
-        "events": getImagesDataByPrefix("events"),
-        "ccas": getImagesDataByPrefix("ccas"),
-        "cca_socials": cca_socials
-    });
-});
-
 // Render a specific facility based on its name
 app.get("/facilities/*", (req, res) => {
     const facName = req.params[0];
